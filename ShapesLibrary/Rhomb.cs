@@ -19,17 +19,17 @@ namespace ShapesLibrary
 
         public void Draw()
         {
-            Console.WriteLine($"Rhomb at ({X}, {Y}), height {H}, {W}");
+            Console.WriteLine($"Rhomb at ({X}, {Y}), height = {H}, weight = {W}");
         }
 
         public double Perimeter()
         {
-            return 2 * Math.Sqrt(Math.Pow(H / 2, 2) + Math.Pow(W / 2, 2)) * 2;
+            return 4 * Math.Sqrt((Math.Pow(W, 4)) / (4 * (Math.Pow(W, 2) - Math.Pow(H, 2))));
         }
 
         public double Square1()
         {
-            return (H * W) / 2;
+            return H * Math.Sqrt((Math.Pow(W, 4)) /(4 * (Math.Pow(W, 2) - Math.Pow(H, 2))));
         }
     }
 }

@@ -8,3 +8,13 @@ D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\bin\Debug\ShapesLibrary.pdb
 D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.csproj.Up2Date
 D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.exe
 D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\bin\Debug\ShapesLibrary.dll
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\bin\Debug\ShapesLibrary.pdb
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\obj\Debug\ShapesApp.csproj.AssemblyReference.cache
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\obj\Debug\ShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\obj\Debug\ShapesApp.csproj.Up2Date
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\hasee\Desktop\shapes1466\ShapesApp\obj\Debug\ShapesApp.pdb

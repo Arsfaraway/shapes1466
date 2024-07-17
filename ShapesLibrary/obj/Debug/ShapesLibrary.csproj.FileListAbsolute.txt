@@ -4,3 +4,9 @@ D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.
 D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
 D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.dll
 D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.pdb
+C:\Users\hasee\Desktop\shapes1466\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\hasee\Desktop\shapes1466\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\hasee\Desktop\shapes1466\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.AssemblyReference.cache
+C:\Users\hasee\Desktop\shapes1466\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hasee\Desktop\shapes1466\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\hasee\Desktop\shapes1466\ShapesLibrary\obj\Debug\ShapesLibrary.pdb
