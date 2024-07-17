@@ -1,0 +1,10 @@
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.csproj.AssemblyReference.cache
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.csproj.CoreCompileInputs.cache
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\bin\Debug\ShapesApp.exe.config
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\bin\Debug\ShapesApp.exe
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\bin\Debug\ShapesApp.pdb
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\bin\Debug\ShapesLibrary.dll
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\bin\Debug\ShapesLibrary.pdb
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.csproj.Up2Date
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.exe
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesApp\obj\Debug\ShapesApp.pdb

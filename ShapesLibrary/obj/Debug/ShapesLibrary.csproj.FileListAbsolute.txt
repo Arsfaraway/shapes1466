@@ -1,0 +1,6 @@
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.AssemblyReference.cache
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+D:\Users\hasee\source\repos\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.pdb
